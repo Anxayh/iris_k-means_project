@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29854202/README.md)
 # 基于 K-Means 算法实现鸢尾花聚类分析
 
 > 软件综合实践课程项目 — 利用无监督学习 K-Means 算法对 Iris 鸢尾花数据集进行聚类分析，自动寻优最佳簇数，生成可视化 HTML 报告。
